@@ -3,4 +3,4 @@
 print("órai gyakorlás")
 #learningitbranching.js.orggit
 print("git pull")
-print("valaki")
+print("valakinek")
