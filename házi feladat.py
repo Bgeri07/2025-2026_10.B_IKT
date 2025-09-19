@@ -2,5 +2,5 @@
 # kérünk egy ábrát, amit otthon megoldahttok
 print("órai gyakorlás")
 #learningitbranching.js.orggit
-print("git push")
-print("valami")
+print("git pull")
+print("valaki")
