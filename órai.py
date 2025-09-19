@@ -2,3 +2,4 @@ print("órai munka")
 nev = "Kis Pista"
 a = 12
 b = 32
+c = szöveg
